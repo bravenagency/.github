@@ -1,5 +1,3 @@
-# Braven Agency
+# .github
 
-## Project Management
-
-* [Full Document](project-management.md)
+This repo drives the documentation on the Braven Github profile
